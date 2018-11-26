@@ -1,7 +1,4 @@
-print("Hello world!")
-<<<<<<< HEAD
-print("Hello everybody")
-=======
-print("Hello everybody")
-print("goodbye")
->>>>>>> master
+print("Hello world!;")
+print("Hello everybody;")
+print("Hello everybody;")
+print("goodbye;")
